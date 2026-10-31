@@ -23,8 +23,8 @@
 
 // console.log(frutas.length);
 
-let nomes = ["Gustavo", "Nicolas", "Gabriel", "Raul", "Zé"];
+// let nomes = ["Gustavo", "Nicolas", "Gabriel", "Raul", "Zé"];
 
-nomes.forEach((elemento) => {
-    console.log(`Bom dia ${elemento}`)
-});
+// nomes.forEach((elemento) => {
+//     console.log(`Bom dia ${elemento}`)
+// });
